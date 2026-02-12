@@ -1,1 +1,8 @@
 
+Users / Internet
+        |
+   Load Balancer
+        |
+   AKS Cluster (Pods running Node.js containers)
+        |
+   Azure SQL Database (Managed)
