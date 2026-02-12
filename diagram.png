@@ -1,8 +1,20 @@
+graph TD
+    User([Users / Internet]) 
+    
+    subgraph Azure_Cloud [Azure Cloud]
+        LB[Load Balancer]
+        
+        subgraph AKS [AKS Cluster]
+            Pod1[Node.js Pod]
+            Pod2[Node.js Pod]
+            Pod3[Node.js Pod]
+        end
+        
+        DB[(Azure SQL Database)]
+    end
 
-Users / Internet
-        |
-   Load Balancer
-        |
-   AKS Cluster (Pods running Node.js containers)
-        |
-   Azure SQL Database (Managed)
+    User --> LB
+    LB --> Pod1
+    LB --> Pod2
+    LB --> Pod3
+    Pod1 & Pod2 & Pod3 --> DB
