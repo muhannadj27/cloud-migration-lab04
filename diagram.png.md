@@ -18,3 +18,9 @@ graph TD
     LB --> Pod2
     LB --> Pod3
     Pod1 & Pod2 & Pod3 --> DB
+
+    %% Styling
+    classDef azure fill:#0078d4,stroke:#005a9e,color:#fff
+    classDef database fill:#f2f2f2,stroke:#333,stroke-width:2px
+    class LB,Pod1,Pod2,Pod3 azure
+    class DB database
