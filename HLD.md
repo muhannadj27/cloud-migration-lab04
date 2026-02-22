@@ -60,7 +60,7 @@ The managed SQL database provides built-in high availability, automated backups,
 
 ## 4. Architecture Diagram
 
-![Target Architecture Diagram](diagram.png)
+https://mermaid.ai/play?utm_source=mermaid_live_editor&utm_medium=share#pako:eNp9UttOwzAM_ZXITyB1pffbAxJdXxAFgQYvtBPKluyC2mRKEwmY9u8k7RhjCPxg5RwfO3acLcw5oZDBUuDNCj0WNUPanjoqKuM6dIGumaSCUTmt2RDt1GyQX30oQV_GDVcEVT1APZgOOmNlXpUcE5TjBrM5FYciPwvdTHQB7caN6mSvQkd2z4lb3elG7dfOgN9h7_-w_0eYMnLcT5FXZ8MYk4cSFVjiGe7o-T7hSGyeBo1Gl3q8gSjzHppGTwnvlPAHwmh7qsgPhHdK-HsCLL2hNYFMCkUtaKlosYGwNdIa5Iq2tIZMHwldYNXIGmq202kbzJ45b78yBVfLFWQL3HQaqQ3BkhZrrNfwLdGDUjHmiknIXCfoa0C2hTfIPC-23SSOUz-KfMd1QwveIQtCO4zSKPHc0AuDxPGinQUf_a2OHcexH_qxGwZB4KZpYgEla8nF7fDx-v-3-wTmo7nC
 
 ---
 
